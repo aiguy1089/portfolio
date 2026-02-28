@@ -1,0 +1,228 @@
+
+
+===== Page 1 =====
+
+QLN1 — QLN1 TASK 1: SENTIMENT DATA ANALYSIS
+NATURAL LANGUAGE PROCESSING — D803
+PRFA — QLN1
+COMPETENCIES
+4141.1.1 : Implements Natural Language Processing
+The learner implements natural language processing techniques to analyze and process text data.   
+INTRODUCTION
+Understanding the role of data preprocessing in sentiment analysis is essential for effectively applying
+natural language processing (NLP) techniques. In this task, you will complete a hands-on project in which you
+prepare a dataset for sentiment analysis by selecting a data source, gathering and limiting the dataset to
+fewer than 500 items, and applying appropriate NLP preprocessing techniques.
+As part of this process, you will explore how different preprocessing methods—such as tokenization,
+stopword removal, and text embedding—impact the accuracy and effectiveness of sentiment classiﬁcation
+models. You will critically analyze the signiﬁcance of these techniques, reﬂecting on their role in improving
+data quality and optimizing machine learning performance.
+Additionally, this project can serve as a portfolio piece, showcasing your ability to preprocess real-world
+textual data for sentiment analysis. A list of potential data sources is provided below, though you may choose
+any appropriate dataset that aligns with the project requirements.
+Note: The NLP techniques below are suggestions. The list is neither prescriptive nor exhaustive. 
+•   tokenization
+•   lowercasing
+•   stopword removal
+•   lemmatization
+•   punctuation and special character removal
+•   handling missing data
+REQUIREMENTS
+Preparation Task Overview Submissions Evaluation Report
+9/10/25, 11:05 AM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5147/overview 1/5
+
+
+===== Page 2 =====
+
+Your submission must represent your original work and understanding of the course material. Most
+performance assessment submissions are automatically scanned through the WGU similarity checker.
+Students are strongly encouraged to wait for the similarity report to generate after uploading their work and
+then review it to ensure Academic Authenticity guidelines are met before submitting the ﬁle for evaluation.
+See Understanding Similarity Reports for more information.
+Grammarly Note:
+Professional Communication will be automatically assessed through Grammarly for Education in most
+performance assessments before a student submits work for evaluation. Students are strongly encouraged to
+review the Grammarly for Education feedback prior to submitting work for evaluation, as the overall
+submission will not pass without this aspect passing. See Use Grammarly for Education Effectively for more
+information. 
+Microsoft Files Note:
+Write your paper in Microsoft Word (.doc or .docx) unless another Microsoft product, or pdf, is speciﬁed in
+the task directions. Tasks may not be submitted as cloud links, such as links to Google Docs, Google Slides,
+OneDrive, etc.  All supporting documentation, such as screenshots and proof of experience, should be
+collected in a pdf ﬁle and submitted separately from the main ﬁle. For more information, please see Computer
+System and Technology Requirements.
+Note: Responses to parts D and E must be 2–3 paragraphs each in length and cited by peer-reviewed
+articles that have been published within the last three years.
+Note: Reference the NLP techniques, listed in the introduction, to give a direction to part C.
+A. Find data from the available data sources for sentiment analysis. Choose from Facebook, X account,
+Kaggle, Amazon, or restaurant reviews.
+1. Provide a dataset using the data gathered in part A, limiting the number of entries to a minimum of 500
+items.
+B. Select appropriate NLP techniques to preprocess the collected data in part A.
+C. Provide the preprepared data for use in the NLP project.
+D. Discuss the strengths and limitations of the selected NLP techniques in their application to the
+preprocessing process.
+E. Discuss the rationale behind the choices made for this project, including the selection of the dataset and
+preprocessing techniques, and how these decisions contribute to the effectiveness of the sentiment
+analysis.
+9/10/25, 11:05 AM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5147/overview 2/5
+
+
+===== Page 3 =====
+
+F. Acknowledge sources, using APA-formatted in-text citations and references, for content that is quoted,
+paraphrased, or summarized.
+G. Demonstrate professional communication in the content and presentation of your submission.
+File Restrictions
+File name may contain only letters, numbers, spaces, and these symbols: ! - _ . * ' ( )
+File size limit: 200 MB
+File types allowed: doc, docx, rtf, xls, xlsx, ppt, pptx, odt, pdf, csv, txt, qt, mov, mpg, avi, mp3, wav, mp4, wma, ﬂv, asf,
+mpeg, wmv, m4v, svg, tif, tiff, jpeg, jpg, gif, png, zip, rar, tar, 7z
+RUBRIC
+A1:DATASET
+B:NLP TECHNIQUES
+C:PREPREPARED DATA
+D:STRENGTHS AND LIMITATIONS
+NOT EVIDENT
+The submission does not pro-
+vide a dataset.
+APPROACHING
+COMPETENCE
+The submission provides a
+dataset but has fewer than 500
+items.
+COMPETENT
+The submission provides a
+dataset with a minimum of 500
+items.
+NOT EVIDENT
+The submission does not select a
+NLP technique.
+APPROACHING
+COMPETENCE
+The submission selects NLP
+techniques to preprocess the
+collected data in part A, but they
+are not appropriate for the
+datasets.
+COMPETENT
+The submission selects NLP tech-
+niques to preprocess the col-
+lected data in part A.
+NOT EVIDENT
+The submission does not pro-
+vide preprepared data.
+APPROACHING
+COMPETENCE
+The submission provides
+preprepared data for use in the
+NLP project, but it is incomplete.
+COMPETENT
+The submission provides prepre-
+pared data for use in the NLP
+project.
+9/10/25, 11:05 AM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5147/overview 3/5
+
+
+===== Page 4 =====
+
+E:RATIONALE
+F:APA SOURCES
+G:PROFESSIONAL COMMUNICATION
+NOT EVIDENT
+The submission does not discuss
+strengths and limitations.
+APPROACHING
+COMPETENCE
+The submission discusses only
+the strengths or limitations of
+the selected NLP techniques in
+their application to the prepro-
+cessing process.
+COMPETENT
+The submission discusses both
+the strengths and limitations of
+the selected NLP techniques in
+their application to the prepro-
+cessing process.
+NOT EVIDENT
+The submission does not discuss
+the rationale behind the choices
+made for this project.
+APPROACHING
+COMPETENCE
+The submission discusses the ra-
+tionale behind the choices made
+for this project, but the rationale
+is incomplete or incorrect.
+COMPETENT
+The submission discusses the ra-
+tionale behind the choices made
+for this project, including the se-
+lection of the dataset and pre-
+processing techniques, and how
+these decisions contribute to the
+effectiveness of the sentiment
+analysis.
+NOT EVIDENT
+The submission does not include
+in-text citations and references
+according to APA style for con-
+tent that is quoted, paraphrased,
+or summarized.
+APPROACHING
+COMPETENCE
+The submission includes in-text
+citations and references for con-
+tent that is quoted, paraphrased,
+or summarized but does not
+demonstrate a consistent appli-
+cation of APA style.
+COMPETENT
+The submission includes in-text
+citations and references for con-
+tent that is quoted, paraphrased,
+or summarized and demon-
+strates a consistent application
+of APA style.
+NOT EVIDENT
+This submission includes perva-
+sive errors in professional com-
+munication related to grammar,
+sentence ﬂuency, contextual
+spelling, or punctuation, nega-
+tively impacting the professional
+quality and clarity of the writing.
+Speciﬁc errors have been identi-
+APPROACHING
+COMPETENCE
+This submission includes sub-
+stantial errors in professional
+communication related to gram-
+mar, sentence ﬂuency, contex-
+tual spelling, and/or
+punctuation. Speciﬁc errors
+have been identiﬁed by
+COMPETENT
+This submission includes satis-
+factory use of grammar, sentence
+ﬂuency, contextual spelling, and
+punctuation, which promote ac-
+curate interpretation and
+understanding.
+9/10/25, 11:05 AM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5147/overview 4/5
+
+
+===== Page 5 =====
+
+ﬁed by Grammarly for Education
+under the Correctness
+category. 
+Grammarly for Education under
+the Correctness category.  
+9/10/25, 11:05 AM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5147/overview 5/5

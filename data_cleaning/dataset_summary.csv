@@ -1,0 +1,5 @@
+Dataset Split,Number of Images,Image Shape,Data Type
+Training,1000,32x32x3,float32 (normalized)
+Validation,200,32x32x3,float32 (normalized)
+Test,200,32x32x3,float32 (normalized)
+Total,1400,32x32x3,float32 (normalized)

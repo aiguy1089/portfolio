@@ -1,0 +1,26 @@
+# Ignore Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+logs/
+
+# Ignore large data files
+*.7z
+*.tgz
+*.zip
+*.csv
+*.npz
+*.joblib
+
+# Ignore environment directories
+venv/
+env/

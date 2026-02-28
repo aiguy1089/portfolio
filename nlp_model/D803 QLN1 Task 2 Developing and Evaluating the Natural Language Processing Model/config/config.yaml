@@ -1,0 +1,45 @@
+# Project configuration for SMS Spam Classification (CPU-friendly)
+
+random_seed: 42
+
+data:
+  # Will be auto-downloaded to data/raw if not present
+  dataset_name: "sms_spam_collection"
+  raw_path: "data/raw/sms_spam.csv"
+  processed_train: "data/processed/train.csv"
+  processed_test: "data/processed/test.csv"
+  text_column: "text"
+  label_column: "label"
+  test_size: 0.2
+
+features:
+  lowercase: true
+  remove_punct: true
+  remove_numbers: false
+  remove_stopwords: true
+  lemmatize: false
+  tfidf:
+    ngram_range: [1, 2]
+    min_df: 2
+    max_df: 0.95
+    max_features: 30000
+
+model:
+  type: "logreg"  # options: logreg, linearsvc, mnb
+  logreg:
+    C: 2.0
+    penalty: "l2"
+    max_iter: 200
+
+optimize:
+  enabled: true
+  cv_folds: 5
+  n_jobs: -1  # use all CPUs
+  param_grid:
+    tfidf__ngram_range: [[1,1],[1,2]]
+    tfidf__min_df: [1,2,3]
+    model__C: [0.5,1.0,2.0,4.0]
+
+reports:
+  metrics_path: "reports/metrics.json"
+  confusion_matrix_path: "reports/confusion_matrix.png"

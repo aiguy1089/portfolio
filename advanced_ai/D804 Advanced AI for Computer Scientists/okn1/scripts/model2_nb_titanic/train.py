@@ -1,0 +1,67 @@
+# Train Naive Bayes on Titanic
+from pathlib import Path
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.metrics import accuracy_score, f1_score, roc_auc_score
+from sklearn.naive_bayes import GaussianNB
+import joblib
+from scripts.common.utils import ARTIFACTS_DIR, REPORTS_DIR, save_json, time_block
+
+DATA_CSV = ARTIFACTS_DIR / "titanic" / "titanic.csv"
+MODEL_DIR = ARTIFACTS_DIR / "titanic" / "model"
+MODEL_DIR.mkdir(parents=True, exist_ok=True)
+
+if __name__ == "__main__":
+    df = pd.read_csv(DATA_CSV)
+    target_col = "survived"
+    y = df[target_col].astype(int)
+    X = df.drop(columns=[target_col])
+
+    # Imputation: numeric -> median; categorical -> most frequent before OHE
+    cat_cols = X.select_dtypes(include=["object","bool","category"]).columns.tolist()
+    num_cols = X.select_dtypes(exclude=["object","bool","category"]).columns.tolist()
+
+    cat_pipeline = Pipeline([
+        ("imputer", SimpleImputer(strategy="most_frequent")),
+        ("ohe", OneHotEncoder(handle_unknown="ignore", sparse_output=False)),
+    ])
+    num_pipeline = Pipeline([
+        ("imputer", SimpleImputer(strategy="median")),
+    ])
+
+    pre = ColumnTransformer([
+        ("cat", cat_pipeline, cat_cols),
+        ("num", num_pipeline, num_cols),
+    ])
+
+    clf = GaussianNB()
+    pipe = Pipeline([
+        ("pre", pre),
+        ("clf", clf),
+    ])
+
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.2, random_state=42, stratify=y
+    )
+
+    with time_block("Training"):
+        pipe.fit(X_train, y_train)
+
+    # Predict probabilities and binarize at 0.5
+    y_proba = pipe.predict_proba(X_test)[:, 1]
+    y_pred = (y_proba >= 0.5).astype(int)
+
+    metrics = {
+        "accuracy": float(accuracy_score(y_test, y_pred)),
+        "f1": float(f1_score(y_test, y_pred)),
+        "roc_auc": float(roc_auc_score(y_test, y_proba)),
+    }
+
+    save_json(metrics, REPORTS_DIR / "titanic_metrics.json")
+    joblib.dump(pipe, MODEL_DIR / "titanic_nb_pipeline.joblib")
+    print("Saved model and metrics.")

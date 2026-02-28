@@ -1,0 +1,240 @@
+
+
+==== Page 1 ====
+QLN1 — QLN1 TASK 2: DEVELOPING AND EVALUATING THE
+NATURAL LANGUAGE PROCESSING MODEL
+NATURAL LANGUAGE PROCESSING — D803
+PRFA — QLN1
+COMPETENCIES
+4141.1.2 : Applies NLP for Text Analysis and Generation 
+The learner applies natural language processing techniques for text analysis and generation tasks. 
+4141.1.3 : Optimizes Natural Language Models 
+The learner optimizes natural language models. 
+INTRODUCTION
+Understanding how to design and optimize a natural language processing (NLP) system is essential for
+effectively applying machine learning techniques to text data. In this task, you will complete a hands-on
+project in which you develop an NLP model, document the necessary tools and libraries, implement the
+system, and evaluate its performance.
+As part of this process, you will design a functional NLP model for a speciﬁc task, such as sentiment analysis
+or text classiﬁcation. You will then document the key libraries and tools required for implementation, using
+Python as the recommended programming language and PyCharm as the preferred development platform.
+Once your model is implemented, you will assess its performance using evaluation metrics such as accuracy,
+precision, recall, F1-score, and a confusion matrix.
+To enhance your model’s effectiveness, you will apply optimization techniques, including hyperparameter
+tuning, algorithm selection, and improved data preprocessing. You will analyze the impact of these
+reﬁnements on your model’s accuracy and efﬁciency, reﬂecting on best practices for NLP system
+development.
+Additionally, this project can serve as a portfolio piece, showcasing your ability to build, analyze, and optimize
+real-world NLP models. Throughout the task, you will demonstrate professional communication and adhere
+to APA (7th edition) citation standards for any referenced materials.
+REQUIREMENTS
+Your submission must represent your original work and understanding of the course material. Most
+performance assessment submissions are automatically scanned through the WGU similarity checker.
+Preparation Task Overview Submissions Evaluation Report
+9/10/25, 7:15 PM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5148/overview 1/5
+
+==== Page 2 ====
+Students are strongly encouraged to wait for the similarity report to generate after uploading their work and
+then review it to ensure Academic Authenticity guidelines are met before submitting the ﬁle for evaluation.
+See Understanding Similarity Reports for more information.
+Grammarly Note:
+Professional Communication will be automatically assessed through Grammarly for Education in most
+performance assessments before a student submits work for evaluation. Students are strongly encouraged to
+review the Grammarly for Education feedback prior to submitting work for evaluation, as the overall
+submission will not pass without this aspect passing. See Use Grammarly for Education Effectively for more
+information.
+Microsoft Files Note:
+Write your paper in Microsoft Word (.doc or .docx) unless another Microsoft product, or pdf, is speciﬁed in
+the task directions. Tasks may not be submitted as cloud links, such as links to Google Docs, Google Slides,
+OneDrive, etc.  All supporting documentation, such as screenshots and proof of experience, should be
+collected in a pdf ﬁle and submitted separately from the main ﬁle. For more information, please
+see Computer System and Technology Requirements.
+A. Create your subgroup and project in GitLab using the provided “GitLab” and the "GitLab How-To" web links
+by doing the following:
+•   Clone the project to the IDE.
+•   Commit with a message and push when you complete each requirement listed in parts B–G.
+GitLab: https://lrps.wgu.edu/provision/353990238
+GitLab How-To: https://cm.wgu.edu/t5/Frequently-Asked-Questions/WGU-GitLab-Environment/ta-
+p/50512
+Note: You may commit and push whenever you want to back up your changes, even if a requirement is
+not yet complete.
+•   Submit a copy of the GitLab repository URL in the "Comments to Evaluator" section when you submit
+this assessment.
+•   Submit a copy of the repository branch history retrieved from your repository, which must include the
+commit messages and dates.
+Note: Wait until you have completed all the following prompts before you create your copy of the
+repository branch history.
+B. Design a working model in Gitlab using NLP techniques.
+9/10/25, 7:15 PM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5148/overview 2/5
+
+==== Page 3 ====
+Note: Python and PyCharm are the recommended development language and platform to use for part C.
+C. Prepare a write-up describing the libraries and tools necessary for implementing the design.
+Note: Requirements Responses to parts D–F should be 2–3 paragraphs each in length and cited by peer-
+reviewed articles that have been published within the last three years.
+D. Describe the implementation process of the NLP system, using parts B and C.
+E. Provide an evaluation summary for the performance of the model (e.g., accuracy, precision, recall, F1-score,
+and confusion matrix).
+F. Provide a detailed summary on the optimization of the NLP model (e.g., tune hyperparameters, adjust the
+architecture, try different algorithms, or use additional techniques like data preparation to improve
+performance).
+G. Acknowledge sources, using APA-formatted in-text citations and references, for content that is quoted,
+paraphrased, or summarized.
+H. Demonstrate professional communication in the content and presentation of your submission.
+File Restrictions
+File name may contain only letters, numbers, spaces, and these symbols: ! - _ . * ' ( )
+File size limit: 200 MB
+File types allowed: doc, docx, rtf, xls, xlsx, ppt, pptx, odt, pdf, csv, txt, qt, mov, mpg, avi, mp3, wav, mp4, wma, ﬂv, asf,
+mpeg, wmv, m4v, svg, tif, tiff, jpeg, jpg, gif, png, zip, rar, tar, 7z
+RUBRIC
+A:GITLAB
+B:WORKING MODEL
+NOT EVIDENT
+This submission does not estab-
+lish a project and subgroup in
+GitLab.
+APPROACHING
+COMPETENCE
+This submission does not accu-
+rately establish a project and
+subgroup in GitLab.
+COMPETENT
+This submission accurately es-
+tablishes a project and subgroup
+in GitLab.
+NOT EVIDENT APPROACHING
+COMPETENCE
+COMPETENT
+9/10/25, 7:15 PM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5148/overview 3/5
+
+==== Page 4 ====
+C:WRITE-UP
+D:NLP SYSTEM
+E:EVALUATION SUMMARY
+F:SUMMARY OF OPTIMIZATION
+G:APA SOURCES
+This submission does not pro-
+vide a working model.
+This submission does not accu-
+rately provide a working model
+in Gitlab using NLP techniques.
+This submission accurately pro-
+vides a fully functional model in
+Gitlab using NLP techniques.
+NOT EVIDENT
+This submission does not in-
+clude a write-up.
+APPROACHING
+COMPETENCE
+This submission includes an ac-
+curate write-up but lacks 1 or
+more of the necessary descrip-
+tions of libraries or tools.
+COMPETENT
+This submission includes an accu-
+rate write-up describing all li-
+braries and tools necessary for
+implementing the design.
+NOT EVIDENT
+This submission does not de-
+scribe the implementation
+process.
+APPROACHING
+COMPETENCE
+This submission does not accu-
+rately describe the implementa-
+tion process for the NLP system,
+using parts B and C.
+COMPETENT
+This submission accurately de-
+scribes the implementation
+process for the NLP system, us-
+ing parts B and C.
+NOT EVIDENT
+This submission does not pro-
+vide an evaluation summary.
+APPROACHING
+COMPETENCE
+This submission does not pro-
+vide an accurate evaluation
+summary.
+COMPETENT
+This submission provides an ac-
+curate evaluation summary.
+NOT EVIDENT
+This submission does not pro-
+vide a summary of optimization.
+APPROACHING
+COMPETENCE
+This submission does not pro-
+vide an accurate summary of
+optimization.
+COMPETENT
+This submission provides an ac-
+curate summary of optimization.
+9/10/25, 7:15 PM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5148/overview 4/5
+
+==== Page 5 ====
+H:PROFESSIONAL COMMUNICATION
+WEB LINKS
+Cloud Academy Environment
+A sandbox environment for creating the model, before submitting through GitLab
+GitLab
+GitLab How-To
+NOT EVIDENT
+The submission does not include
+in-text citations and references
+according to APA style for con-
+tent that is quoted, paraphrased,
+or summarized.
+APPROACHING
+COMPETENCE
+The submission includes in-text
+citations and references for con-
+tent that is quoted, paraphrased,
+or summarized but does not
+demonstrate a consistent appli-
+cation of APA style.
+COMPETENT
+The submission includes in-text
+citations and references for con-
+tent that is quoted, paraphrased,
+or summarized and demon-
+strates a consistent application
+of APA style.
+NOT EVIDENT
+This submission includes perva-
+sive errors in professional com-
+munication related to grammar,
+sentence ﬂuency, contextual
+spelling, or punctuation, nega-
+tively impacting the professional
+quality and clarity of the writing.
+Speciﬁc errors have been identi-
+ﬁed by Grammarly for Education
+under the Correctness
+category. 
+APPROACHING
+COMPETENCE
+This submission includes sub-
+stantial errors in professional
+communication related to gram-
+mar, sentence ﬂuency, contex-
+tual spelling, and/or punctua-
+tion. Speciﬁc errors have been
+identiﬁed by Grammarly for
+Education under the
+Correctness category.
+COMPETENT
+This submission includes satis-
+factory use of grammar, sentence
+ﬂuency, contextual spelling, and
+punctuation, which promote ac-
+curate interpretation and
+understanding.
+9/10/25, 7:15 PM WGU Performance Assessment
+https://tasks.wgu.edu/student/012687096/course/37040018/task/5148/overview 5/5

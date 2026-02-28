@@ -1,0 +1,501 @@
+review_id,review_text,star_rating,sentiment
+1,The story was decent but dragged in the middle.,2,negative
+2,The pacing was too slow for my liking.,5,positive
+3,"Not worth the money, very disappointing.",2,negative
+4,"This book was absolutely amazing, I couldn't put it down!",2,negative
+5,Loved the characters and the plot twists!,5,positive
+6,One of the best books I've read this year.,3,neutral
+7,The story was decent but dragged in the middle.,4,positive
+8,"Not worth the money, very disappointing.",4,positive
+9,"Terrible writing style, I regret buying this.",2,negative
+10,The story was decent but dragged in the middle.,4,positive
+11,The pacing was too slow for my liking.,3,neutral
+12,"Brilliantly written, the author did a fantastic job.",4,positive
+13,An inspiring read that I will recommend to friends.,3,neutral
+14,The story was decent but dragged in the middle.,2,negative
+15,"Mediocre at best, wouldn't buy again.",3,neutral
+16,"Not worth the money, very disappointing.",1,negative
+17,"This book was absolutely amazing, I couldn't put it down!",2,negative
+18,An inspiring read that I will recommend to friends.,5,positive
+19,"Not worth the money, very disappointing.",5,positive
+20,"This book was absolutely amazing, I couldn't put it down!",1,negative
+21,An inspiring read that I will recommend to friends.,1,negative
+22,"Not worth the money, very disappointing.",1,negative
+23,"Terrible writing style, I regret buying this.",3,neutral
+24,"Brilliantly written, the author did a fantastic job.",5,positive
+25,"Terrible writing style, I regret buying this.",5,positive
+26,The pacing was too slow for my liking.,3,neutral
+27,The pacing was too slow for my liking.,1,negative
+28,"Mediocre at best, wouldn't buy again.",1,negative
+29,The pacing was too slow for my liking.,5,positive
+30,An inspiring read that I will recommend to friends.,1,negative
+31,"This book was absolutely amazing, I couldn't put it down!",3,neutral
+32,"Mediocre at best, wouldn't buy again.",1,negative
+33,One of the best books I've read this year.,5,positive
+34,The pacing was too slow for my liking.,5,positive
+35,An inspiring read that I will recommend to friends.,3,neutral
+36,Loved the characters and the plot twists!,2,negative
+37,"Mediocre at best, wouldn't buy again.",4,positive
+38,Loved the characters and the plot twists!,1,negative
+39,The story was decent but dragged in the middle.,4,positive
+40,The story was decent but dragged in the middle.,4,positive
+41,"Mediocre at best, wouldn't buy again.",3,neutral
+42,Loved the characters and the plot twists!,3,neutral
+43,"Brilliantly written, the author did a fantastic job.",5,positive
+44,The story was decent but dragged in the middle.,1,negative
+45,An inspiring read that I will recommend to friends.,4,positive
+46,"Terrible writing style, I regret buying this.",5,positive
+47,"Brilliantly written, the author did a fantastic job.",3,neutral
+48,An inspiring read that I will recommend to friends.,5,positive
+49,The story was decent but dragged in the middle.,3,neutral
+50,An inspiring read that I will recommend to friends.,5,positive
+51,"Mediocre at best, wouldn't buy again.",5,positive
+52,One of the best books I've read this year.,5,positive
+53,"Brilliantly written, the author did a fantastic job.",3,neutral
+54,An inspiring read that I will recommend to friends.,1,negative
+55,The pacing was too slow for my liking.,3,neutral
+56,"This book was absolutely amazing, I couldn't put it down!",4,positive
+57,"Terrible writing style, I regret buying this.",3,neutral
+58,"Brilliantly written, the author did a fantastic job.",4,positive
+59,The story was decent but dragged in the middle.,5,positive
+60,One of the best books I've read this year.,2,negative
+61,"This book was absolutely amazing, I couldn't put it down!",5,positive
+62,"Mediocre at best, wouldn't buy again.",4,positive
+63,"Mediocre at best, wouldn't buy again.",3,neutral
+64,"Terrible writing style, I regret buying this.",4,positive
+65,One of the best books I've read this year.,5,positive
+66,"Terrible writing style, I regret buying this.",5,positive
+67,"Mediocre at best, wouldn't buy again.",3,neutral
+68,"Mediocre at best, wouldn't buy again.",5,positive
+69,"Mediocre at best, wouldn't buy again.",3,neutral
+70,One of the best books I've read this year.,4,positive
+71,One of the best books I've read this year.,4,positive
+72,"This book was absolutely amazing, I couldn't put it down!",2,negative
+73,An inspiring read that I will recommend to friends.,1,negative
+74,"Mediocre at best, wouldn't buy again.",2,negative
+75,"This book was absolutely amazing, I couldn't put it down!",3,neutral
+76,"Brilliantly written, the author did a fantastic job.",5,positive
+77,The pacing was too slow for my liking.,5,positive
+78,"Brilliantly written, the author did a fantastic job.",3,neutral
+79,An inspiring read that I will recommend to friends.,4,positive
+80,"This book was absolutely amazing, I couldn't put it down!",5,positive
+81,"This book was absolutely amazing, I couldn't put it down!",4,positive
+82,"Terrible writing style, I regret buying this.",1,negative
+83,One of the best books I've read this year.,4,positive
+84,One of the best books I've read this year.,4,positive
+85,"Not worth the money, very disappointing.",5,positive
+86,"Terrible writing style, I regret buying this.",3,neutral
+87,"Terrible writing style, I regret buying this.",4,positive
+88,"Not worth the money, very disappointing.",5,positive
+89,One of the best books I've read this year.,3,neutral
+90,An inspiring read that I will recommend to friends.,4,positive
+91,"Mediocre at best, wouldn't buy again.",3,neutral
+92,"Terrible writing style, I regret buying this.",5,positive
+93,"This book was absolutely amazing, I couldn't put it down!",5,positive
+94,The pacing was too slow for my liking.,3,neutral
+95,"Mediocre at best, wouldn't buy again.",5,positive
+96,An inspiring read that I will recommend to friends.,5,positive
+97,The pacing was too slow for my liking.,3,neutral
+98,"Brilliantly written, the author did a fantastic job.",4,positive
+99,"Terrible writing style, I regret buying this.",4,positive
+100,An inspiring read that I will recommend to friends.,2,negative
+101,One of the best books I've read this year.,1,negative
+102,Loved the characters and the plot twists!,1,negative
+103,The pacing was too slow for my liking.,5,positive
+104,"Brilliantly written, the author did a fantastic job.",4,positive
+105,"Brilliantly written, the author did a fantastic job.",4,positive
+106,"Brilliantly written, the author did a fantastic job.",5,positive
+107,Loved the characters and the plot twists!,5,positive
+108,The pacing was too slow for my liking.,3,neutral
+109,An inspiring read that I will recommend to friends.,4,positive
+110,"Terrible writing style, I regret buying this.",4,positive
+111,The pacing was too slow for my liking.,5,positive
+112,"This book was absolutely amazing, I couldn't put it down!",2,negative
+113,"Brilliantly written, the author did a fantastic job.",2,negative
+114,"Mediocre at best, wouldn't buy again.",4,positive
+115,"This book was absolutely amazing, I couldn't put it down!",4,positive
+116,"Terrible writing style, I regret buying this.",1,negative
+117,The story was decent but dragged in the middle.,5,positive
+118,"Terrible writing style, I regret buying this.",4,positive
+119,An inspiring read that I will recommend to friends.,4,positive
+120,An inspiring read that I will recommend to friends.,1,negative
+121,An inspiring read that I will recommend to friends.,4,positive
+122,"This book was absolutely amazing, I couldn't put it down!",3,neutral
+123,One of the best books I've read this year.,5,positive
+124,"Mediocre at best, wouldn't buy again.",4,positive
+125,One of the best books I've read this year.,5,positive
+126,"This book was absolutely amazing, I couldn't put it down!",1,negative
+127,An inspiring read that I will recommend to friends.,3,neutral
+128,The pacing was too slow for my liking.,1,negative
+129,The story was decent but dragged in the middle.,3,neutral
+130,"Brilliantly written, the author did a fantastic job.",4,positive
+131,"Not worth the money, very disappointing.",1,negative
+132,The pacing was too slow for my liking.,3,neutral
+133,"Mediocre at best, wouldn't buy again.",2,negative
+134,One of the best books I've read this year.,5,positive
+135,An inspiring read that I will recommend to friends.,3,neutral
+136,One of the best books I've read this year.,5,positive
+137,An inspiring read that I will recommend to friends.,3,neutral
+138,"Terrible writing style, I regret buying this.",1,negative
+139,An inspiring read that I will recommend to friends.,3,neutral
+140,Loved the characters and the plot twists!,3,neutral
+141,"Terrible writing style, I regret buying this.",4,positive
+142,The pacing was too slow for my liking.,3,neutral
+143,The story was decent but dragged in the middle.,1,negative
+144,"Terrible writing style, I regret buying this.",3,neutral
+145,An inspiring read that I will recommend to friends.,3,neutral
+146,One of the best books I've read this year.,2,negative
+147,"Not worth the money, very disappointing.",1,negative
+148,Loved the characters and the plot twists!,3,neutral
+149,One of the best books I've read this year.,2,negative
+150,One of the best books I've read this year.,3,neutral
+151,"Mediocre at best, wouldn't buy again.",4,positive
+152,An inspiring read that I will recommend to friends.,2,negative
+153,The pacing was too slow for my liking.,5,positive
+154,The story was decent but dragged in the middle.,3,neutral
+155,The story was decent but dragged in the middle.,2,negative
+156,Loved the characters and the plot twists!,1,negative
+157,Loved the characters and the plot twists!,5,positive
+158,"Terrible writing style, I regret buying this.",2,negative
+159,"Not worth the money, very disappointing.",2,negative
+160,The story was decent but dragged in the middle.,4,positive
+161,"Not worth the money, very disappointing.",1,negative
+162,The story was decent but dragged in the middle.,1,negative
+163,"Not worth the money, very disappointing.",1,negative
+164,"Not worth the money, very disappointing.",2,negative
+165,An inspiring read that I will recommend to friends.,3,neutral
+166,"This book was absolutely amazing, I couldn't put it down!",1,negative
+167,"Terrible writing style, I regret buying this.",1,negative
+168,"Brilliantly written, the author did a fantastic job.",2,negative
+169,One of the best books I've read this year.,3,neutral
+170,The pacing was too slow for my liking.,1,negative
+171,"This book was absolutely amazing, I couldn't put it down!",1,negative
+172,An inspiring read that I will recommend to friends.,2,negative
+173,"This book was absolutely amazing, I couldn't put it down!",5,positive
+174,One of the best books I've read this year.,5,positive
+175,"Mediocre at best, wouldn't buy again.",4,positive
+176,Loved the characters and the plot twists!,4,positive
+177,"Mediocre at best, wouldn't buy again.",1,negative
+178,"This book was absolutely amazing, I couldn't put it down!",5,positive
+179,"This book was absolutely amazing, I couldn't put it down!",5,positive
+180,"Brilliantly written, the author did a fantastic job.",2,negative
+181,The pacing was too slow for my liking.,2,negative
+182,"Brilliantly written, the author did a fantastic job.",1,negative
+183,"Mediocre at best, wouldn't buy again.",3,neutral
+184,One of the best books I've read this year.,1,negative
+185,An inspiring read that I will recommend to friends.,4,positive
+186,Loved the characters and the plot twists!,1,negative
+187,One of the best books I've read this year.,3,neutral
+188,One of the best books I've read this year.,5,positive
+189,Loved the characters and the plot twists!,1,negative
+190,The story was decent but dragged in the middle.,5,positive
+191,"Brilliantly written, the author did a fantastic job.",3,neutral
+192,"Mediocre at best, wouldn't buy again.",5,positive
+193,"Terrible writing style, I regret buying this.",4,positive
+194,The pacing was too slow for my liking.,3,neutral
+195,"Not worth the money, very disappointing.",4,positive
+196,"Terrible writing style, I regret buying this.",4,positive
+197,"Terrible writing style, I regret buying this.",4,positive
+198,The story was decent but dragged in the middle.,3,neutral
+199,Loved the characters and the plot twists!,1,negative
+200,"Not worth the money, very disappointing.",5,positive
+201,"This book was absolutely amazing, I couldn't put it down!",2,negative
+202,Loved the characters and the plot twists!,5,positive
+203,An inspiring read that I will recommend to friends.,5,positive
+204,Loved the characters and the plot twists!,5,positive
+205,An inspiring read that I will recommend to friends.,2,negative
+206,An inspiring read that I will recommend to friends.,1,negative
+207,"Terrible writing style, I regret buying this.",3,neutral
+208,"Not worth the money, very disappointing.",3,neutral
+209,"Brilliantly written, the author did a fantastic job.",2,negative
+210,"Brilliantly written, the author did a fantastic job.",1,negative
+211,The story was decent but dragged in the middle.,5,positive
+212,One of the best books I've read this year.,2,negative
+213,One of the best books I've read this year.,4,positive
+214,The pacing was too slow for my liking.,3,neutral
+215,"Brilliantly written, the author did a fantastic job.",1,negative
+216,"Mediocre at best, wouldn't buy again.",3,neutral
+217,One of the best books I've read this year.,4,positive
+218,Loved the characters and the plot twists!,5,positive
+219,The pacing was too slow for my liking.,4,positive
+220,An inspiring read that I will recommend to friends.,4,positive
+221,"Mediocre at best, wouldn't buy again.",3,neutral
+222,An inspiring read that I will recommend to friends.,3,neutral
+223,An inspiring read that I will recommend to friends.,4,positive
+224,An inspiring read that I will recommend to friends.,5,positive
+225,The story was decent but dragged in the middle.,1,negative
+226,The story was decent but dragged in the middle.,5,positive
+227,"This book was absolutely amazing, I couldn't put it down!",3,neutral
+228,The pacing was too slow for my liking.,5,positive
+229,"Not worth the money, very disappointing.",3,neutral
+230,Loved the characters and the plot twists!,2,negative
+231,"Mediocre at best, wouldn't buy again.",5,positive
+232,"Not worth the money, very disappointing.",1,negative
+233,"This book was absolutely amazing, I couldn't put it down!",3,neutral
+234,Loved the characters and the plot twists!,5,positive
+235,"This book was absolutely amazing, I couldn't put it down!",1,negative
+236,"This book was absolutely amazing, I couldn't put it down!",4,positive
+237,Loved the characters and the plot twists!,5,positive
+238,"This book was absolutely amazing, I couldn't put it down!",5,positive
+239,"Terrible writing style, I regret buying this.",5,positive
+240,An inspiring read that I will recommend to friends.,5,positive
+241,"This book was absolutely amazing, I couldn't put it down!",4,positive
+242,An inspiring read that I will recommend to friends.,4,positive
+243,One of the best books I've read this year.,1,negative
+244,"This book was absolutely amazing, I couldn't put it down!",4,positive
+245,"Not worth the money, very disappointing.",5,positive
+246,"Mediocre at best, wouldn't buy again.",1,negative
+247,"Not worth the money, very disappointing.",2,negative
+248,"Brilliantly written, the author did a fantastic job.",5,positive
+249,"This book was absolutely amazing, I couldn't put it down!",3,neutral
+250,"Terrible writing style, I regret buying this.",2,negative
+251,"Brilliantly written, the author did a fantastic job.",1,negative
+252,The pacing was too slow for my liking.,4,positive
+253,One of the best books I've read this year.,5,positive
+254,One of the best books I've read this year.,4,positive
+255,Loved the characters and the plot twists!,1,negative
+256,"This book was absolutely amazing, I couldn't put it down!",2,negative
+257,Loved the characters and the plot twists!,3,neutral
+258,"Mediocre at best, wouldn't buy again.",5,positive
+259,"Not worth the money, very disappointing.",2,negative
+260,"This book was absolutely amazing, I couldn't put it down!",3,neutral
+261,"Not worth the money, very disappointing.",1,negative
+262,One of the best books I've read this year.,3,neutral
+263,The story was decent but dragged in the middle.,5,positive
+264,The pacing was too slow for my liking.,5,positive
+265,Loved the characters and the plot twists!,1,negative
+266,"Terrible writing style, I regret buying this.",1,negative
+267,"Brilliantly written, the author did a fantastic job.",5,positive
+268,The story was decent but dragged in the middle.,5,positive
+269,Loved the characters and the plot twists!,4,positive
+270,An inspiring read that I will recommend to friends.,2,negative
+271,Loved the characters and the plot twists!,2,negative
+272,"Mediocre at best, wouldn't buy again.",4,positive
+273,"Mediocre at best, wouldn't buy again.",4,positive
+274,The story was decent but dragged in the middle.,4,positive
+275,An inspiring read that I will recommend to friends.,1,negative
+276,The pacing was too slow for my liking.,5,positive
+277,One of the best books I've read this year.,2,negative
+278,"Terrible writing style, I regret buying this.",4,positive
+279,"This book was absolutely amazing, I couldn't put it down!",2,negative
+280,"Brilliantly written, the author did a fantastic job.",3,neutral
+281,"This book was absolutely amazing, I couldn't put it down!",4,positive
+282,"Not worth the money, very disappointing.",3,neutral
+283,An inspiring read that I will recommend to friends.,4,positive
+284,"Brilliantly written, the author did a fantastic job.",1,negative
+285,Loved the characters and the plot twists!,1,negative
+286,An inspiring read that I will recommend to friends.,1,negative
+287,"Terrible writing style, I regret buying this.",5,positive
+288,"This book was absolutely amazing, I couldn't put it down!",5,positive
+289,"Not worth the money, very disappointing.",1,negative
+290,The story was decent but dragged in the middle.,5,positive
+291,Loved the characters and the plot twists!,5,positive
+292,An inspiring read that I will recommend to friends.,4,positive
+293,"Mediocre at best, wouldn't buy again.",5,positive
+294,Loved the characters and the plot twists!,5,positive
+295,"This book was absolutely amazing, I couldn't put it down!",1,negative
+296,"This book was absolutely amazing, I couldn't put it down!",5,positive
+297,The story was decent but dragged in the middle.,3,neutral
+298,The pacing was too slow for my liking.,4,positive
+299,An inspiring read that I will recommend to friends.,1,negative
+300,"Brilliantly written, the author did a fantastic job.",2,negative
+301,An inspiring read that I will recommend to friends.,4,positive
+302,Loved the characters and the plot twists!,4,positive
+303,"Terrible writing style, I regret buying this.",5,positive
+304,"Brilliantly written, the author did a fantastic job.",4,positive
+305,The pacing was too slow for my liking.,2,negative
+306,"Terrible writing style, I regret buying this.",3,neutral
+307,"Terrible writing style, I regret buying this.",5,positive
+308,An inspiring read that I will recommend to friends.,3,neutral
+309,The story was decent but dragged in the middle.,2,negative
+310,"This book was absolutely amazing, I couldn't put it down!",5,positive
+311,The story was decent but dragged in the middle.,5,positive
+312,"Terrible writing style, I regret buying this.",4,positive
+313,One of the best books I've read this year.,5,positive
+314,"Brilliantly written, the author did a fantastic job.",3,neutral
+315,The pacing was too slow for my liking.,2,negative
+316,"Brilliantly written, the author did a fantastic job.",4,positive
+317,"Terrible writing style, I regret buying this.",2,negative
+318,"Terrible writing style, I regret buying this.",3,neutral
+319,"This book was absolutely amazing, I couldn't put it down!",5,positive
+320,One of the best books I've read this year.,4,positive
+321,"Not worth the money, very disappointing.",1,negative
+322,"Mediocre at best, wouldn't buy again.",1,negative
+323,"Not worth the money, very disappointing.",1,negative
+324,"Not worth the money, very disappointing.",2,negative
+325,The pacing was too slow for my liking.,3,neutral
+326,Loved the characters and the plot twists!,3,neutral
+327,One of the best books I've read this year.,3,neutral
+328,"Not worth the money, very disappointing.",3,neutral
+329,Loved the characters and the plot twists!,1,negative
+330,An inspiring read that I will recommend to friends.,4,positive
+331,One of the best books I've read this year.,5,positive
+332,"This book was absolutely amazing, I couldn't put it down!",2,negative
+333,The story was decent but dragged in the middle.,2,negative
+334,An inspiring read that I will recommend to friends.,5,positive
+335,One of the best books I've read this year.,1,negative
+336,Loved the characters and the plot twists!,4,positive
+337,"Terrible writing style, I regret buying this.",2,negative
+338,"Not worth the money, very disappointing.",4,positive
+339,"This book was absolutely amazing, I couldn't put it down!",1,negative
+340,The story was decent but dragged in the middle.,5,positive
+341,"This book was absolutely amazing, I couldn't put it down!",4,positive
+342,"Terrible writing style, I regret buying this.",5,positive
+343,An inspiring read that I will recommend to friends.,5,positive
+344,One of the best books I've read this year.,1,negative
+345,Loved the characters and the plot twists!,2,negative
+346,"Terrible writing style, I regret buying this.",4,positive
+347,One of the best books I've read this year.,4,positive
+348,The story was decent but dragged in the middle.,1,negative
+349,An inspiring read that I will recommend to friends.,4,positive
+350,One of the best books I've read this year.,2,negative
+351,One of the best books I've read this year.,4,positive
+352,"Brilliantly written, the author did a fantastic job.",1,negative
+353,An inspiring read that I will recommend to friends.,1,negative
+354,"Terrible writing style, I regret buying this.",5,positive
+355,"This book was absolutely amazing, I couldn't put it down!",4,positive
+356,"Mediocre at best, wouldn't buy again.",2,negative
+357,"Brilliantly written, the author did a fantastic job.",2,negative
+358,Loved the characters and the plot twists!,1,negative
+359,"Mediocre at best, wouldn't buy again.",1,negative
+360,"Brilliantly written, the author did a fantastic job.",2,negative
+361,The story was decent but dragged in the middle.,2,negative
+362,"Brilliantly written, the author did a fantastic job.",3,neutral
+363,"Mediocre at best, wouldn't buy again.",2,negative
+364,"Brilliantly written, the author did a fantastic job.",4,positive
+365,One of the best books I've read this year.,4,positive
+366,"Not worth the money, very disappointing.",4,positive
+367,The story was decent but dragged in the middle.,5,positive
+368,"Not worth the money, very disappointing.",5,positive
+369,"Mediocre at best, wouldn't buy again.",2,negative
+370,An inspiring read that I will recommend to friends.,2,negative
+371,Loved the characters and the plot twists!,2,negative
+372,"This book was absolutely amazing, I couldn't put it down!",4,positive
+373,An inspiring read that I will recommend to friends.,2,negative
+374,An inspiring read that I will recommend to friends.,5,positive
+375,"Brilliantly written, the author did a fantastic job.",4,positive
+376,One of the best books I've read this year.,4,positive
+377,"Brilliantly written, the author did a fantastic job.",4,positive
+378,Loved the characters and the plot twists!,2,negative
+379,"Brilliantly written, the author did a fantastic job.",5,positive
+380,"Mediocre at best, wouldn't buy again.",1,negative
+381,The story was decent but dragged in the middle.,5,positive
+382,The story was decent but dragged in the middle.,4,positive
+383,"Mediocre at best, wouldn't buy again.",4,positive
+384,"Brilliantly written, the author did a fantastic job.",2,negative
+385,Loved the characters and the plot twists!,1,negative
+386,"Terrible writing style, I regret buying this.",5,positive
+387,"Brilliantly written, the author did a fantastic job.",5,positive
+388,Loved the characters and the plot twists!,3,neutral
+389,"Mediocre at best, wouldn't buy again.",4,positive
+390,"Terrible writing style, I regret buying this.",2,negative
+391,An inspiring read that I will recommend to friends.,3,neutral
+392,"Not worth the money, very disappointing.",3,neutral
+393,Loved the characters and the plot twists!,1,negative
+394,"Mediocre at best, wouldn't buy again.",1,negative
+395,An inspiring read that I will recommend to friends.,1,negative
+396,"Brilliantly written, the author did a fantastic job.",4,positive
+397,Loved the characters and the plot twists!,5,positive
+398,One of the best books I've read this year.,4,positive
+399,"Mediocre at best, wouldn't buy again.",2,negative
+400,An inspiring read that I will recommend to friends.,2,negative
+401,The pacing was too slow for my liking.,5,positive
+402,One of the best books I've read this year.,1,negative
+403,"Brilliantly written, the author did a fantastic job.",4,positive
+404,An inspiring read that I will recommend to friends.,5,positive
+405,An inspiring read that I will recommend to friends.,2,negative
+406,The pacing was too slow for my liking.,2,negative
+407,"Brilliantly written, the author did a fantastic job.",2,negative
+408,"Not worth the money, very disappointing.",1,negative
+409,One of the best books I've read this year.,1,negative
+410,"This book was absolutely amazing, I couldn't put it down!",5,positive
+411,One of the best books I've read this year.,5,positive
+412,An inspiring read that I will recommend to friends.,1,negative
+413,Loved the characters and the plot twists!,2,negative
+414,"This book was absolutely amazing, I couldn't put it down!",5,positive
+415,"This book was absolutely amazing, I couldn't put it down!",2,negative
+416,An inspiring read that I will recommend to friends.,3,neutral
+417,"Mediocre at best, wouldn't buy again.",4,positive
+418,"Not worth the money, very disappointing.",2,negative
+419,"Not worth the money, very disappointing.",1,negative
+420,Loved the characters and the plot twists!,2,negative
+421,"This book was absolutely amazing, I couldn't put it down!",1,negative
+422,"Mediocre at best, wouldn't buy again.",4,positive
+423,Loved the characters and the plot twists!,3,neutral
+424,An inspiring read that I will recommend to friends.,1,negative
+425,"Not worth the money, very disappointing.",1,negative
+426,"Not worth the money, very disappointing.",2,negative
+427,An inspiring read that I will recommend to friends.,1,negative
+428,One of the best books I've read this year.,5,positive
+429,Loved the characters and the plot twists!,2,negative
+430,One of the best books I've read this year.,3,neutral
+431,An inspiring read that I will recommend to friends.,1,negative
+432,The pacing was too slow for my liking.,2,negative
+433,Loved the characters and the plot twists!,1,negative
+434,One of the best books I've read this year.,3,neutral
+435,The story was decent but dragged in the middle.,3,neutral
+436,The pacing was too slow for my liking.,1,negative
+437,One of the best books I've read this year.,1,negative
+438,An inspiring read that I will recommend to friends.,3,neutral
+439,Loved the characters and the plot twists!,3,neutral
+440,"Mediocre at best, wouldn't buy again.",1,negative
+441,The story was decent but dragged in the middle.,2,negative
+442,"Not worth the money, very disappointing.",2,negative
+443,The story was decent but dragged in the middle.,2,negative
+444,"Brilliantly written, the author did a fantastic job.",5,positive
+445,One of the best books I've read this year.,3,neutral
+446,"Brilliantly written, the author did a fantastic job.",2,negative
+447,"Terrible writing style, I regret buying this.",1,negative
+448,The story was decent but dragged in the middle.,4,positive
+449,The pacing was too slow for my liking.,1,negative
+450,One of the best books I've read this year.,1,negative
+451,One of the best books I've read this year.,3,neutral
+452,The pacing was too slow for my liking.,4,positive
+453,Loved the characters and the plot twists!,1,negative
+454,"Mediocre at best, wouldn't buy again.",5,positive
+455,Loved the characters and the plot twists!,2,negative
+456,"Mediocre at best, wouldn't buy again.",2,negative
+457,The story was decent but dragged in the middle.,4,positive
+458,"Not worth the money, very disappointing.",2,negative
+459,The pacing was too slow for my liking.,5,positive
+460,One of the best books I've read this year.,1,negative
+461,An inspiring read that I will recommend to friends.,1,negative
+462,An inspiring read that I will recommend to friends.,1,negative
+463,Loved the characters and the plot twists!,4,positive
+464,Loved the characters and the plot twists!,5,positive
+465,"Mediocre at best, wouldn't buy again.",3,neutral
+466,An inspiring read that I will recommend to friends.,3,neutral
+467,"Mediocre at best, wouldn't buy again.",3,neutral
+468,Loved the characters and the plot twists!,3,neutral
+469,One of the best books I've read this year.,3,neutral
+470,"This book was absolutely amazing, I couldn't put it down!",1,negative
+471,"Mediocre at best, wouldn't buy again.",2,negative
+472,"Terrible writing style, I regret buying this.",2,negative
+473,One of the best books I've read this year.,2,negative
+474,One of the best books I've read this year.,5,positive
+475,Loved the characters and the plot twists!,4,positive
+476,"Not worth the money, very disappointing.",1,negative
+477,"Terrible writing style, I regret buying this.",4,positive
+478,One of the best books I've read this year.,1,negative
+479,The story was decent but dragged in the middle.,3,neutral
+480,"Not worth the money, very disappointing.",3,neutral
+481,"Not worth the money, very disappointing.",1,negative
+482,An inspiring read that I will recommend to friends.,2,negative
+483,"Not worth the money, very disappointing.",2,negative
+484,"Brilliantly written, the author did a fantastic job.",1,negative
+485,"Mediocre at best, wouldn't buy again.",2,negative
+486,"Brilliantly written, the author did a fantastic job.",3,neutral
+487,An inspiring read that I will recommend to friends.,1,negative
+488,Loved the characters and the plot twists!,1,negative
+489,One of the best books I've read this year.,4,positive
+490,"Brilliantly written, the author did a fantastic job.",1,negative
+491,The story was decent but dragged in the middle.,4,positive
+492,"Mediocre at best, wouldn't buy again.",5,positive
+493,"Mediocre at best, wouldn't buy again.",2,negative
+494,"Not worth the money, very disappointing.",5,positive
+495,Loved the characters and the plot twists!,3,neutral
+496,"This book was absolutely amazing, I couldn't put it down!",2,negative
+497,"Brilliantly written, the author did a fantastic job.",1,negative
+498,Loved the characters and the plot twists!,1,negative
+499,"Not worth the money, very disappointing.",5,positive
+500,Loved the characters and the plot twists!,5,positive

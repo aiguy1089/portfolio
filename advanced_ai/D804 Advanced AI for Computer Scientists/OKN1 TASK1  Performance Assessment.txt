@@ -1,0 +1,102 @@
+OKN1 - OKN1 TASK 1: USING AI TO RESOLVE CHALLENGES
+ADVANCED AI FOR COMPUTER SCIENTISTS - D804 PRFA - OKN1
+	Preparation	Task Overview	Submissions	Evaluation Report
+
+COMPETENCIES
+4142.1.1  : Prepares Data 
+The learner prepares data for use in AI model training. 
+4142.1.2  : Synthesizes Principles of AI and Machine Learning 
+The learner synthesizes principles of artificial intelligence and machine learning to design systems that solve real-world problems. 
+4142.1.3  : Applies Probabilistic Reasoning 
+The learner applies probabilistic reasoning and AI techniques for enhanced problem-solving capabilities. 4142.1.4  : Evaluates AI Systems 
+The learner critically evaluates AI systems to improve performance, efficiency, and sustainability. 
+INTRODUCTION
+This performance assessment will evaluate your ability to integrate the advanced artificial intelligence techniques with the data engineering skills from this course. You will develop a series of mini projects that demonstrate some of the techniques covered in this course.  The assessment will focus on your proficiency in evaluating, designing, implementing, and validating AI systems that leverage complex data structures and algorithms to solve challenges.
+REQUIREMENTS
+Your submission must represent your original work and understanding of the course material. Most performance assessment submissions are automatically scanned through the WGU similarity checker. Students are strongly encouraged to wait for the similarity report to generate after uploading their work and then review it to ensure Academic Authenticity guidelines are met before submitting the file for evaluation.
+See Understanding Similarity Reports for more information. 
+ 
+Grammarly Note: 
+Professional Communication will be automatically assessed through Grammarly for Education in most performance assessments before a student submits work for evaluation. Students are strongly encouraged to review the Grammarly for Education feedback prior to submitting work for evaluation, as the overall submission will not pass without this aspect passing. See Use Grammarly for Education Effectively for more information. 
+ 
+Microsoft Files Note: 
+Write your paper in Microsoft Word (.doc or .docx) unless another Microsoft product, or pdf, is specified in the task directions. Tasks may not be submitted as cloud links, such as links to Google Docs, Google Slides, OneDrive, etc.  All supporting documentation, such as screenshots and proof of experience, should be collected in a pdf file and submitted separately from the main file. For more information, please see Computer System and Technology Requirements.
+ 
+A. Create your subgroup and project in GitLab using the provided "GitLab" and the "GitLab How-To" weblinks by doing the following: 
+• Clone the project to the IDE. 
+• Commit with a message and push when you complete each requirement listed in parts B-I. 
+Note: You may commit and push whenever you want to back up your changes, even if a requirement is not yet complete. 
+• Submit a copy of the GitLab repository URL in the "Comments to Evaluator" section when you submitthis assessment. 
+• Submit a copy of the repository branch history retrieved from your repository, which must include thecommit messages and dates.
+Note: Wait until you have completed all the following prompts before you create your copy of the repository branch history.
+B. Choose one dataset from an open source for each of your models.
+C. Identify the goal of the first model, including the name of the model using the format"D804_PA_Model_Title" where "Title" is the name you have chosen the model.
+D. Identify the dataset to be used for the first model.
+1. Describe the dataset and its features.
+2. Explain why you chose this dataset.
+3. Describe the technique(s) used to prepare the data for modeling.
+E. Develop the first model in the Cloud Academy Lab Environment using any of the advanced methods fromthe course, identifying which method you chose.
+1. Explain how the model was developed.
+2. Explain how the model was trained to accomplish its task.
+3. Explain how the results were validated for the model's performance.
+4. Explain how the model could be deployed to end users.
+5. Document the code for submission to GitLab.
+F. Identify the goal of the second model, including the name of the model using the format"D804_PA_Model_Title" where "Title" is the name you have chosen for the model.
+G. Identify the dataset to be used for the second model.
+1. Describe the dataset and its features.
+2. Explain why you chose this dataset.
+3. Describe the technique(s) used to prepare the data for modeling.
+H. Develop the second model in the Cloud Academy Lab Environment using any of the probabilistic methodsfrom the course, identifying which method you chose.
+1. Explain how the model was developed.
+2. Explain how the model was trained to accomplish its task.
+3. Explain how the results were validated for the model's performance.
+4. Explain how the model could be deployed to end users.
+5. Document the code for submission to GitLab.
+I. Identify the goal of the optimization for each model, including the name of the project using the format"D804_PA_ Optimization _Title" where "Title" is the name you have chosen.
+J. Perform the following actions on both of the models:
+• Optimize the efficiency and performance of the model.
+• Identify benchmarks for evaluation.
+• Evaluate the model based on the identified benchmarks.
+K. Acknowledge sources, using APA-formatted in-text citations and references, for content that is quoted,paraphrased, or summarized.
+L. Demonstrate professional communication in the content and presentation of your submission.
+File Restrictions
+File name may contain only letters, numbers, spaces, and these symbols: ! - _ . * ' ( )
+File size limit: 200 MB
+File types allowed: doc, docx, rtf, xls, xlsx, ppt, pptx, odt, pdf, csv, txt, qt, mov, mpg, avi, mp3, wav, mp4, wma, flv, asf, mpeg, wmv, m4v, svg, tif, tiff, jpeg, jpg, gif, png, zip, rar, tar, 7z
+RUBRIC
+
+
+
+
+
+
+
+NOT EVIDENT
+The submission does not include in-text citations and references according to APA style for content that is quoted, paraphrased, or summarized.
+L:PROFESSIONAL COMMUNICATION
+NOT EVIDENT
+This submission includes pervasive errors in professional communication related to grammar, sentence fluency, contextual spelling, or punctuation, negatively impacting the professional quality and clarity of the writing. Specific errors have been identified by Grammarly for Education under the Correctness category. 
+WEB LINKS
+GitLab How-To
+Gitlab
+Cloud Academy Lab Environment
+APPROACHING COMPETENCE
+The submission includes in-text citations and references for content that is quoted, paraphrased, or summarized but does not demonstrate a consistent application of APA style.
+APPROACHING COMPETENCE
+This submission includes substantial errors in professional communication related to grammar, sentence fluency, contextual spelling, and/or punctuation.  Specific errors have been identified by Grammarly for Education under the
+Correctness category.  COMPETENT
+The submission includes in-text citations and references for content that is quoted, paraphrased, or summarized and demonstrates a consistent application of APA style.
+COMPETENT
+This submission includes satisfactory use of grammar, sentence fluency, contextual spelling, and punctuation, which promote accurate interpretation and understanding.
+9/15/25, 6:12 PM	WGU Performance Assessment
+
+9/15/25, 6:12 PM	WGU Performance Assessment
+
+https://tasks.wgu.edu/student/012687096/course/37020018/task/5146/overview	1/9
+
+https://tasks.wgu.edu/student/012687096/course/37020018/task/5146/overview	1/9
+
+9/15/25, 6:12 PM	WGU Performance Assessment
+
+https://tasks.wgu.edu/student/012687096/course/37020018/task/5146/overview	1/9
+
