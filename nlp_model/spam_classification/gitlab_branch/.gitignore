@@ -1,0 +1,20 @@
+# Ignore data, models, reports, and docs not required for GitLab submission
+.data/
+data/
+models/
+reports/
+docs/
+submission/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.doc
+*.docx
+*.zip
+*.tar
+*.7z
+*.rar
+__pycache__/

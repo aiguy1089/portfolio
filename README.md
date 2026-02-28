@@ -26,10 +26,10 @@ This repository aggregates a collection of academic and personal projects comple
 - **Description:** ML pipeline processing 37k+ hospital records to predict high-risk facilities and generate staffing recommendations.
 - **Folder:** `hospital_staff_analytics`
 
-### ✅ Neural Network & NLP Coursework
+### ✅ Neural Network & NLP Research
 - **Languages:** Python, Jupyter, shell
-- **Description:** Coursework projects including CIFAR‑10 spatial transformer network, data cleaning pipelines, sentiment analysis of reviews, and assorted AI experiments.
-- **Folders:** `network_architecture`, `network_evaluation`, `data_cleaning`, `sentiment_analysis`, `nlp_model`, `advanced_ai`
+- **Description:** Projects including CIFAR‑10 spatial transformer networks, automated data cleaning pipelines, sentiment analysis of reviews, and spam classification.
+- **Folders:** `network_evaluation`, `data_cleaning`, `sentiment_analysis`, `nlp_model/spam_classification`, `advanced_ai/machine_learning_research`
 
 ---
 
