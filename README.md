@@ -39,7 +39,7 @@ To use any of the projects:
 
 1. Navigate into the desired subdirectory (example):
    ```powershell
-   cd "C:\Users\Admin\Projects For Linked In\Portfolio\weather_forecast"
+   cd weather_forecast
    ```
 
 2. Each project has its own README with setup and execution instructions. Follow those to run the code or tests.
