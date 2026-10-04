@@ -1,6 +1,6 @@
-# Personal Project Portfolio
+# Data Science, Machine Learning & Cloud Engineering Portfolio
 
-This repository aggregates a collection of academic and personal projects completed as part of my coursework and independent study. Each subdirectory contains a self-contained project with its own README, source code, and supporting files. The objective is to showcase practical experience in data engineering, machine learning, systems automation, and algorithm development.
+This portfolio showcases academic and independent projects spanning data science, machine learning, data engineering, cloud computing, and software development. Projects demonstrate practical experience with Python, SQL, predictive modeling, natural language processing, data transformation, automation, and cloud technologies.
 
 ---
 
@@ -54,4 +54,3 @@ This portfolio is provided under the [MIT License](LICENSE) for reuse and refere
 
 ---
 
-> **Note:** The actual source files reside in the sibling project directories; this repository is a wrapper for presentation. When publishing on GitHub create a repository named `portfolio` (or similar) and push this structure along with symlinked or copied subfolders as needed.
